@@ -5,6 +5,8 @@ html {
 .event {
   border-radius: 8px;
   border-width: 1px;
+  border-color: #ccc;
+  border-style: solid;
 }
 
 .event-grey {
