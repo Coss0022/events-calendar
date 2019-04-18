@@ -2,6 +2,17 @@ html {
   font-family: Merriweather, serif;
 }
 
+th {
+  border-color: #ccc;
+  border-width: 1px;
+}
+
+td {
+  border-color: #ccc;
+  border-width: 1px;
+  height: 8em;
+}
+
 .event {
   border-radius: 5px;
   border-width: 1px;
